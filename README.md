@@ -1,11 +1,6 @@
-# TwoPandas
+# OuraAPI
 
-A personal-use tool that pulls Oura Ring data through the Oura API V2 for one account owner and the one person he has authorized to view it.
-
-This is not a public service. It has no users beyond the account owner and his authorized viewer.
-
-- [Privacy Policy](PRIVACY.md)
-- [Terms of Service](TERMS.md)
+A personal-use tool that pulls Oura Ring data through the Oura API V2.
 
 ## Setup
 
