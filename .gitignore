@@ -1,0 +1,6 @@
+# Secrets and personal health data: never commit
+.env
+tokens.json
+data/
+__pycache__/
+*.pyc
